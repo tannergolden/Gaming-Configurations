@@ -1,5 +1,5 @@
-							DISCLAIMER
-Although no punishment should take effect on your account, I am not responsible for your misfortune while using the files.
+								DISCLAIMER
+	Although no punishment should take effect on your account, I am not responsible for your misfortune while using the files.
 
 ### Information
 The **_Configuration_** repository contains all my Video Game configuration files. If you want to use or test my personal settings feel free to. However, before using the configs I created you must read & agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement. All Configuration files contain all settings from `Video` `Gameplay` `Controls` `Audio` and `Multiplayer` for the specific game selected.
