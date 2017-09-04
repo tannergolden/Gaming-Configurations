@@ -1,4 +1,4 @@
-# Gaming
+# Gaming Setups
 
 ## Welcome to GitHub Pages
 
