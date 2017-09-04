@@ -1,6 +1,7 @@
 ## Game Setups
+**Gaming** repository contains all my Video Game configuration files. If you want to use or test my personal configurations feel free to. However before using the configs I created you must agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement.
 
-	Branches connected to the [master](https://github.com/Plexol/Gaming/tree/master) branch contain my personal configurations for games I play.
+Branches connected to the [Master](https://github.com/Plexol/Gaming/tree/master) branch contain my personal configurations for games I play. Just go to the branch tab and select the game title you wish to browse.
 
 ### Markdown
 
