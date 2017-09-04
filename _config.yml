@@ -1,7 +1,7 @@
-  // Configuration for webpage of GitHub Repository.
-
 title: Minimal theme
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+  // Configuration file for GitHub webpage.
