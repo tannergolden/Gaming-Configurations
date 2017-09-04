@@ -1,7 +1,7 @@
 ## Game Setups
 The **Gaming** repository contains all my Video Game configuration files. If you want to use or test my personal settings feel free to. However, before using the configs I created you must agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement. All Configuration files contains all settings from `Video` `Gameplay` `Controls` `Audio` and `Multiplayer` for the specific game branch selected.
 
-### S
+### 
 
 <a href="http://steamsignature.com"><img src="https://steamsignature.com/card/0/76561198184952842.png" alt=""/></a>
 
@@ -32,6 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Plexol/Gaming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Contact Me
+<a href="http://steamsignature.com"><img src="https://steamsignature.com/status/default/76561198184952842.png" alt=""/></a><a href="steam://friends/add/76561198184952842"><img src="http://steamsignature.com/AddFriend.png" alt="Add Friend"/></a>
 Send me an **Email** to ask questions.
 
 `Plexol.TG@Gmail.com`
