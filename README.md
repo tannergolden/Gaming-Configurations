@@ -1,7 +1,9 @@
 ## Game Setups
 The **Gaming** repository contains all my Video Game configuration files. If you want to use or test my personal settings feel free to. However, before using the configs I created you must agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement. All Configuration files contains all settings from `Video` `Gameplay` `Controls` `Audio` and `Multiplayer` for the specific game branch selected.
 
-### Markdown
+### S
+
+<a href="http://steamsignature.com"><img src="https://steamsignature.com/card/0/76561198184952842.png" alt=""/></a>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
