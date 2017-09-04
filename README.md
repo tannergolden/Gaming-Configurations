@@ -1,5 +1,5 @@
 ### Information
-The **Configurations** repository contains all my Video Game configuration files. If you want to use or test my personal settings feel free to. However, before using the configs I created you must read & agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement. All Configuration files contain all settings from `Video` `Gameplay` `Controls` `Audio` and `Multiplayer` for the specific game selected.
+The **_Configurations_** repository contains all my Video Game configuration files. If you want to use or test my personal settings feel free to. However, before using the configs I created you must read & agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement. All Configuration files contain all settings from `Video` `Gameplay` `Controls` `Audio` and `Multiplayer` for the specific game selected.
 
 Click on the **Branch** options and select the game title you wish to view configurations for. Then, click the **[Clone or Download]** button to download the game you selected. All game folders come with files called `READ ME` `LICENSE` `INSTALL`, just read all of them to setup the package correctly.
 
@@ -31,7 +31,7 @@ My social media is public for anyone to follow. I post my life through these pag
 - [Xbox](https://account.xbox.com/en-US/Profile?GamerTag=Plexol)
 
 ### Contact Me
-Need to ask some questions not listed on the `FAQ` section? Either join my **Discord** server or send me an **Email**. My Discord server is my main VoIP application I use to text and voice call. I check my Email everyday and respond fast, please do **not** spam my inboxs.
+Need to ask some questions not listed on the `FAQ` section? Either join my **_Discord_** server or send me an **_Email_**. My Discord server is my main VoIP application I use to text and voice call. I check my Email everyday and respond fast, please do **not** spam my inboxs.
 
 - [Discord](https://discord.gg/X7j64WJ)
 - [Email](mailto:Plexol.TG@Gmail.com)
