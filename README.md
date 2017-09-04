@@ -23,16 +23,13 @@ Nerd interested in all things **Tech**, **Video Games**, **Anime**, **eSports**,
 ### Social Media
 My social media is public for anyone to follow. I post my life through these pages, which contains all sorts of topics from Photography, Technology, and Gameology. Do **not** contact me through these pages, instead go to the **Contact Me** section and read how to contact me.
 
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59acfa102758ec4c"></script> 
-<div class="addthis_inline_follow_toolbox"></div>
-
 - [Instagram](https://www.instagram.com/plexol/)
 - [Twitter](https://twitter.com/Plexol)
 - [Facebook](https://www.facebook.com/Plexol/)
 - [Steam](http://steamcommunity.com/id/Plexol)
 - [Xbox](https://account.xbox.com/en-US/Profile?GamerTag=Plexol)
 
-### Contact Me
+## Contact Me
 Send me an **Email** to ask questions.
 
 - [Discord](https://discord.gg/X7j64WJ)
