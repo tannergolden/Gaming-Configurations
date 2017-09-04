@@ -1,5 +1,5 @@
 ## Game Setups
-The **Gaming** repository contains all my Video Game configuration files. If you want to use or test my personal settings feel free to. However, before using the configs I created you must agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement.
+The **Gaming** repository contains all my Video Game configuration files. If you want to use or test my personal settings feel free to. However, before using the configs I created you must agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement. Configurations contains all settings from `Video` `Gameplay` `Controls` `Audio` and `Multiplayer`.
 
 ### Markdown
 
