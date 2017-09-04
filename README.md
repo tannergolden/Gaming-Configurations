@@ -1,6 +1,4 @@
-# Gaming Setups
-
-## Welcome to GitHub Pages
+## Game Setups
 
 You can use the [editor on GitHub](https://github.com/Plexol/Gaming/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
