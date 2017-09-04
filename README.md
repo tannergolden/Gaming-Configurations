@@ -10,6 +10,10 @@ My social media is public for anyone to follow. I post my life through these pag
 - [Steam](http://steamcommunity.com/id/Plexol)
 - [Xbox](https://account.xbox.com/en-US/Profile?GamerTag=Plexol)
 
+## About Me
+Nerd interested in all things Tech, Video Games, Anime, eSports, and Photography. I have been playing Video Games casually and competitively since I was eight years old. My favorite anime of all time is Naruto.	I am a huge fan of Cloud 9 with my favorite player being **Jordan Gilbert** "n0thing".	My all time favorite video game series is **The Legend of Zelda**.
+
+
 ## FAQ
 
 ```markdown
