@@ -29,8 +29,8 @@ My social media is public for anyone to follow. I post my life through these pag
 - [Steam](http://steamcommunity.com/id/Plexol)
 - [Xbox](https://account.xbox.com/en-US/Profile?GamerTag=Plexol)
 
-## Contact Me
-Send me an **Email** to ask questions.
+### Contact Me
+Need to ask some questions not listed on the `FAQ` section? Either join my **Discord** server or send me an **Email**. Do not spam or otherwise try to troll links below as I will block anyone need be.
 
 - [Discord](https://discord.gg/X7j64WJ)
 - [Email](mailto:Plexol.TG@Gmail.com)
