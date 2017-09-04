@@ -29,34 +29,9 @@ My social media is public for anyone to follow. I post my life through these pag
 - [Steam](http://steamcommunity.com/id/Plexol)
 - [Xbox](https://account.xbox.com/en-US/Profile?GamerTag=Plexol)
 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Plexol/Gaming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ## Contact Me
 <a href="http://steamsignature.com"><img src="https://steamsignature.com/status/default/76561198184952842.png" alt=""/></a><a href="steam://friends/add/76561198184952842"><img src="http://steamsignature.com/AddFriend.png" alt="Add Friend"/></a>
 Send me an **Email** to ask questions.
 
-`Plexol.TG@Gmail.com`
+- [Discord](https://discord.gg/X7j64WJ)
+- [Email](mailto:Plexol.TG@Gmail.com)
