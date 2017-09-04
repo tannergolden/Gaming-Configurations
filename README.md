@@ -32,7 +32,7 @@ My social media is public for anyone to follow. I post my life through these pag
 - [Xbox](https://account.xbox.com/en-US/Profile?GamerTag=Plexol)
 
 ### Contact Me
-Need to ask some questions not listed on the `FAQ` section? Either join my **Discord** server or send me an **Email**. My Discord server is my main VoIP application I use to text and voice call. Although the Email option is still a great way to get in contact with me. I check my Email whenever possible.
+Need to ask some questions not listed on the `FAQ` section? Either join my **Discord** server or send me an **Email**. My Discord server is my main VoIP application I use to text and voice call. Although the Email option is still a great way to get in contact with me.
 
 - [Discord](https://discord.gg/X7j64WJ)
 - [Email](mailto:Plexol.TG@Gmail.com)
