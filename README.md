@@ -2,7 +2,7 @@
 The **Gaming** repository contains all my Video Game configuration files. If you want to use or test my personal settings feel free to. However, before using the configs I created you must agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement. All Configuration files contain all settings from `Video` `Gameplay` `Controls` `Audio` and `Multiplayer` for the specific game branch selected.
 
 ### Media
-My social media is public for anyone to follow. I post my life through these pages, which contains all sorts of topics from Photography, Technology, and Gameology. Do **not** contact me through these pages, instead go to the **Contact Me** section and read as stated.
+My social media is public for anyone to follow. I post my life through these pages, which contains all sorts of topics from Photography, Technology, and Gameology. Do **not** contact me through these pages, instead go to the **Contact Me** section and read how to contact me.
 
 - [Instagram](https://www.instagram.com/plexol/)
 - [Twitter](https://twitter.com/Plexol)
