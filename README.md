@@ -30,10 +30,10 @@ My social media is public for anyone to follow. I post my life through these pag
 - [Xbox](https://account.xbox.com/en-US/Profile?GamerTag=Plexol)
 
 ### Contact Me
-Need to ask some questions not listed on the `FAQ` section? Either join my **Discord** server or send me an **Email**. Do not spam or otherwise try to troll links below as I will block anyone need be.
+Need to ask some questions not listed on the `FAQ` section? Either join my **Discord** server or send me an **Email**. My Discord server is my main VoIP application I use to text and voice call. Although the Email option is still a great way to get in contact with me. I check my Email whenever possible.
 
 - [Discord](https://discord.gg/X7j64WJ)
 - [Email](mailto:Plexol.TG@Gmail.com)
 ________________________________________________________________________________________________________________________________________
 
-<a href="http://steamsignature.com"><img src="https://steamsignature.com/status/default/76561198184952842.png" alt=""/></a><a href="steam://friends/add/76561198184952842"><img src="http://steamsignature.com/AddFriend.png" alt="Add Friend"/></a>
+<a href="http://steamsignature.com"><img src="https://steamsignature.com/card/0/76561198184952842.png" alt=""/></a>
