@@ -1,0 +1,101 @@
+																				  ___ _  _ ___ _____ _   _    _      _ _____ ___ ___  _  _ 
+																				 |_ _| \| / __|_   _/_\ | |  | |    /_\_   _|_ _/ _ \| \| |
+																				  | || .` \__ \ | |/ _ \| |__| |__ / _ \| |  | | (_) | .` |
+																				 |___|_|\_|___/ |_/_/ \_\____|____/_/ \_\_| |___\___/|_|\_|
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+--------------------------------------
+Text Color Mod [2.5]
+Written by Plexol since Version [1.0]
+--------------------------------------
+1.| Copy & Paste the file csgo_plexol.txt inside this folder:
+
+		[A:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource]
+		
+2.| Add [-language plexol] in launch options without brackets.
+3.| Restart your game.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+--------------------------------------
+Radio Panels [2.0]
+Written by Plexol since version [1.0]
+--------------------------------------
+1.| Open this folder:
+
+		[B:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\ui]
+		
+2.| Replace the radiopanel.txt file with the new file (it's recommended to take a backup first).
+3.| Restart the game.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+--------------------------------
+Custom CSGO Fonts
+Created by Spddl
+Website: http://fonts.spddl.de/
+--------------------------------
+1.| Unzip & place the (Steam) folder directly into your Program Files directory that has (Steam).
+
+				[Usually "C:\Program Files\ or D:\Program Files (x86)]
+				
+2.| When it asks you to replace the (Steam) folder; click [Yes, Replace All].
+
+																									[!!!WARNING!!!]
+									Each download not coming from this site could have been modified using a virus or other unwanted modifications wich could result in a VAC ban.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+--------------------------------------
+Autoexec Configuration [3.2]
+Written by Plexol since Version [1.0]
+--------------------------------------
+1.| 1.| Copy & Paste the file (autoexec.cfg) inside this folder:
+
+		[E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg]
+		
+2.| Add [-exec autoexec] in launch options without brackets.
+3.| Restart your game.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+--------------------------------------
+Props & Entities Spawner [4.2]
+Written by Plexol since Version [1.0]
+--------------------------------------
+
+1.| Copy the file/folder "autoexec.cfg" (file) & "Props_Entities" (folder); Paste into this folder:
+
+		[F:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg]
+		
+2.| Add [-exec autoexec] in launch options without brackets.
+3.| Restart the game.
+4.| Host a server and invite anyone or play alone.
+5.| Type [sv_cheats 1] in the console.
+6.| Type [alias] in console to see the commands available.
+7.| Execute a command of your choice from the list by typing "CommandName" in the console
+
+		[Example:] Spawn a banana, type in console: banana
+		[Example:] Remove all spawned Props & Entities, type in console: removeall
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+---------------
+Video Settings
+---------------
+
+1.| Copy & Paste both (video.txt) and (videodefaults.txt) into the directory below.
+
+		C:\Program Files (x86)\Steam\userdata\224687114\[Steam ID]\local\cfg
+		
+2.| Run CSGO and check the Video Settings and compare with the photo provided.
+3.| If settings are not the same; change them to be identical.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________	
+
+---------------
+Launch Options
+---------------
+
+1.| Start Steam & Go to Library.
+2.| Find CSGO and [right-click] the game.
+3.| Click [properties].
+4.| Make sure you're on the (General) tab & click [Set Launch Options...]
+5.| Copy & Paste the below launch options & click [Ok].
+		
+																									[Launch Settings]
+							-exec autoexec -language plexol -noforcemaccel -noforcemparms -noforcemspd -noforcemspeed -novid -nosync -nojoy -high -port 27041 -tickrate 128 -cl_disablehtmlmotd 1
