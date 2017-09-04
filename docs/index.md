@@ -8,6 +8,6 @@ Click on the **Branch** options and select the game title you wish to view confi
 
 *   [FAQ](FAQ)
 *   [Downloads](Downloads)
-*   [Repos](Other-Repos)
+*   [Repos](Repos)
 *   [About](About)
 *   [Contact](Contact)
