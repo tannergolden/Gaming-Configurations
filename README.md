@@ -32,7 +32,7 @@ My social media is public for anyone to follow. I post my life through these pag
 ### Contact Me
 <a href="http://steamsignature.com"><img src="https://steamsignature.com/status/default/76561198184952842.png" alt=""/></a><a href="steam://friends/add/76561198184952842"><img src="http://steamsignature.com/AddFriend.png" alt="Add Friend"/></a>
 
-<iframe src="https://discordapp.com/widget?id=260285969167679489&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+https://discordapp.com/api/guilds/260285969167679489/widget.json
 
 Send me an **Email** to ask questions.
 
