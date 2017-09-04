@@ -1,9 +1,9 @@
+### Information
 The **Configurations** repository contains all my Video Game configuration files. If you want to use or test my personal settings feel free to. However, before using the configs I created you must read & agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement. All Configuration files contain all settings from `Video` `Gameplay` `Controls` `Audio` and `Multiplayer` for the specific game selected.
 
 Click on the **Branch** options and select the game title you wish to view configurations for. Then, click the **[Clone or Download]** button to download the game you selected. All game folders come with files called `READ ME` `LICENSE` `INSTALL`, just read all of them to setup the package correctly.
 
 ### FAQ
-
 ```markdown
 Q: Can I get VAC Banned from using these files?
 A: No, however you might want to check server specific rules.
@@ -18,7 +18,7 @@ Q: Where do I make suggestions?
 A: Join my Discord or Email me.
 ```
 
-## About Me
+### About Me
 Nerd interested in all things **Tech**, **Video Games**, **Anime**, **eSports**, and **Photography**. I have been playing Video Games casually and competitively since I was eight years old. My favorite anime of all time is **Naruto**.	I am a huge fan of Cloud 9 with my favorite player being **Jordan Gilbert** "n0thing".	My all time favorite video game series is **The Legend of Zelda**.
 
 ### Social Media
@@ -37,5 +37,4 @@ Need to ask some questions not listed on the `FAQ` section? Either join my **Dis
 - [Email](mailto:Plexol.TG@Gmail.com)
 
 #
-
 <a href="http://steamsignature.com"><img src="https://steamsignature.com/status/default/76561198184952842.png" alt=""/></a><a href="steam://friends/add/76561198184952842"><img src="http://steamsignature.com/AddFriend.png" alt="Add Friend"/></a>
