@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Frequently asked Questions:
+Have you got questions? [Contact](Contact) me and I will be more than glad to help you out! Just make sure that if you have anykind of questions that its logical and not one from below.
 
 | Question | Answer |
 |:---------|:-------|
