@@ -9,4 +9,6 @@ My configurations are professionaly created and looked over extensively. Some ex
 | ------------- |:-------------:|
 | [CSGO](https://github.com/Plexol/Configuration/archive/CSGO.zip)     | [v5.0](https://github.com/Plexol/Configuration/tree/CSGO) |
 
+**_More Games To Be Added..._**
+
 [back](./)
