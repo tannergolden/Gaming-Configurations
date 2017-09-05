@@ -12,4 +12,4 @@ Have you got questions? [Contact](Contact) me and I will be more than glad to he
 | Can I request Advanced Scripts? | Yes, join my Discord or Email me. I go by a games Terms of Service. |
 | Where do I make suggestions? | Join my Discord or Email me. |
 
-[back](./) [next](\.)
+[back](./)
