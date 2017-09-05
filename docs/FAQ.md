@@ -4,7 +4,6 @@ layout: default
 
 ## Frequently asked Questions:
 > Q: Can I get VAC Banned from using these files?
-------------------------------------------------------------------------------------------------------------------------------------------
 > A: No, however you might want to check server specific rules.
 
 Q: How often do you update the files?
