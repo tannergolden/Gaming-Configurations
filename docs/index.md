@@ -15,4 +15,4 @@ Click on the **Downloads** menu below then, click the download option you want. 
 
         DISCLAIMER
         Although no punishment should take effect on your account, I am not responsible for your misfortune while using the files.
-        The files can over-write your current settings/values please make sure to have a backup of your current files unless you want my           setup fully.
+        The files can over-write your current settings/values please make sure to have a backup of your current files.
