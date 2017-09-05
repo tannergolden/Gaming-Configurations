@@ -7,6 +7,6 @@ My configurations are professionaly created and looked over extensively. Some ex
 
 | Direct    | GitHub  |
 | ------------- |:-------------:|
-| [CSGO](https://github.com/Plexol/Configuration/tree/CSGO)     | [v5.0](https://github.com/Plexol/Configuration/tree/CSGO) |
+| [CSGO](https://github.com/Plexol/Configuration/archive/CSGO.zip)     | [v5.0](https://github.com/Plexol/Configuration/tree/CSGO) |
 
 [back](./)
