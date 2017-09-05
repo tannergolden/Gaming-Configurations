@@ -3,8 +3,7 @@ layout: default
 ---
 
 # Downloads
-Below are direct downloads to my game configs. However if you click on the version number to the right of the direct download you will be taken to the **_GitHub_** view of the files.
-
+My configurations are professionaly created and looked over extensively. Some exec files have advanced scripts that have over fifty lines of code. If you want your own unique scripts [Contact](Contact) me. Below are direct downloads and the **_GitHub_** view of my configuration files.
 
 | Direct    | GitHub  |
 | ------------- |:-------------:|
