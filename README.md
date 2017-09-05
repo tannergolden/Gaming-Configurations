@@ -5,20 +5,16 @@
 The **_Configuration_** repository contains all my Video Game configuration files. If you want to use or test my personal settings feel free to. However, before using the configs I created you must read & agree to the [License](https://github.com/Plexol/Gaming/blob/master/LICENSE) agreement. All Configuration files contain all settings from `Video` `Gameplay` `Controls` `Audio` and `Multiplayer` for the specific game selected.
 
 Click on the **Branch** options and select the game title you wish to view configurations for. Then, click the **[Clone or Download]** button to download the game you selected. All game folders come with files called `READ ME` `LICENSE` `INSTALL`, just read all of them to setup the package correctly.
-### FAQ
-```markdown
-Q: Can I get VAC Banned from using these files?
-A: No, however you might want to check server specific rules.
 
-Q: How often do you update the files?
-A: I update the files every two weeks.
+## Frequently asked Questions:
+Have you got questions? [Contact](Contact) me and I will be more than glad to help you out! Just make sure that if you have anykind of questions that its logical and not one from below.
 
-Q: Can I request Advanced Scripts?
-A: Yes, join my Discord or Email me. I go by a games Terms of Service.
-
-Q: Where do I make suggestions?
-A: Join my Discord or Email me.
-```
+| Question | Answer |
+|:---------|:-------|
+| Can I get VAC Banned from using these files? | No, however you might want to check server specific rules. |
+| How often do you update the files? | I update the files every two weeks. |
+| Can I request Advanced Scripts? | Yes, join my Discord or Email me. I go by a games Terms of Service. |
+| Where do I make suggestions? | Join my Discord or Email me. |
 
 ### About Me
 Nerd interested in all things **Tech**, **Video Games**, **Anime**, **eSports**, and **Photography**. I have been playing Video Games casually and competitively since I was eight years old. My favorite anime of all time is **Naruto**.	I am a huge fan of Cloud 9 with my favorite player being **Jordan Gilbert** "n0thing".	My all time favorite video game series is **The Legend of Zelda**.
