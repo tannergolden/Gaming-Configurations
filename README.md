@@ -17,11 +17,9 @@ Have you got questions? [Contact](Contact) me and I will be more than glad to he
 | Where do I make suggestions? | Join my Discord or Email me. |
 
 ### About Me
-Nerd interested in all things **Tech**, **Video Games**, **Anime**, **eSports**, and **Photography**. I have been playing Video Games casually and competitively since I was eight years old. My favorite anime of all time is **Naruto**.	I am a huge fan of Cloud 9 with my favorite player being **Jordan Gilbert** "n0thing".	My all time favorite video game series is **The Legend of Zelda**.
+tba...
 
 ### Social Media
-My social media is public for anyone to follow. I post my life through these pages, which contains all sorts of topics from Photography, Technology, and Gameology. Do **not** contact me through these pages, instead go to the **Contact Me** section and read how to contact me.
-
 - [Instagram](https://www.instagram.com/plexol/)
 - [Twitter](https://twitter.com/Plexol)
 - [Facebook](https://www.facebook.com/Plexol/)
@@ -31,5 +29,5 @@ My social media is public for anyone to follow. I post my life through these pag
 ### Contact Me
 Need to ask some questions not listed on the `FAQ` section? Either join my **_Discord_** server or send me an **_Email_**. My Discord server is my main VoIP application I use to text and voice call. I check my Email everyday and respond fast, please do **not** spam my inboxs.
 
-- [Discord](https://discord.gg/KVBptct)
-- [Email](mailto:Plexol@Outlook.com)
+- [Discord]()
+- [Email](mailto:tanner_golden@outlook.com)
