@@ -7,7 +7,7 @@ My **_Gaming Configuration_** repository contains all my Video Game configuratio
 Click on the **Branch** options and select the game title you wish to view configurations for. Then, click the **[Clone or Download]** button to download the game you selected. All game folders come with files called `READ ME` `LICENSE` `INSTALL`, just read all of them to setup the package correctly.
 
 ### Frequently asked Questions:
-Have you got questions? [Contact](Contact) me and I will be more than glad to help you out! Just make sure that if you have any kind of questions that it's not one from below in the Q/A.
+Have you got questions? Contact me and I will be more than glad to help you out! Just make sure that if you have any kind of questions that it's not one from below in the Q/A.
 
 | Question | Answer |
 |:---------|:-------|
