@@ -14,7 +14,7 @@ Have you got questions? Contact me and I will be more than glad to help you out!
 | Can I get VAC Banned from using these files? | No, however you might want to check community server specific rules. |
 | How often do you update the files? | I update the files whenever I play and test different configurations to best fit my play style. |
 | Can I request Advanced Scripts? | Yes, join the Discord or Email me. I go by a games Terms of Service. |
-| Where do I make suggestions? | Join the Discord |
+| Where do I make suggestions? | Join the Discord. |
 
 ### Social Media
 - [Instagram](https://www.instagram.com/tannergoldenofficial/)
