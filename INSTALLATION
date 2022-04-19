@@ -6,19 +6,19 @@ ________________________________________________________________________________
 
 --------------------------------------
 Text Color Mod [2.5]
-Written by Plexol since Version [1.0]
+Written by Tanner Golden since Version [1.0]
 --------------------------------------
 1.| Copy & Paste the file csgo_plexol.txt inside this folder:
 
 		[A:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource]
 		
-2.| Add [-language plexol] in launch options without brackets.
+2.| Add [-language tanergolden] in launch options without brackets.
 3.| Restart your game.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 --------------------------------------
 Radio Panels [2.0]
-Written by Plexol since version [1.0]
+Written by Tanner Golden since version [1.0]
 --------------------------------------
 1.| Open this folder:
 
@@ -39,13 +39,13 @@ Website: http://fonts.spddl.de/
 				
 2.| When it asks you to replace the (Steam) folder; click [Yes, Replace All].
 
-																									[!!!WARNING!!!]
-									Each download not coming from this site could have been modified using a virus or other unwanted modifications wich could result in a VAC ban.
+			[!!!WARNING!!!]
+		Each download not coming from this site could have been modified using a virus or other unwanted modifications wich could result in a VAC ban.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 --------------------------------------
 Autoexec Configuration [3.2]
-Written by Plexol since Version [1.0]
+Written by Tanner Golden since Version [1.0]
 --------------------------------------
 1.| 1.| Copy & Paste the file (autoexec.cfg) inside this folder:
 
@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
 --------------------------------------
 Props & Entities Spawner [4.2]
-Written by Plexol since Version [1.0]
+Written by Tanner Golden since Version [1.0]
 --------------------------------------
 
 1.| Copy the file/folder "autoexec.cfg" (file) & "Props_Entities" (folder); Paste into this folder:
@@ -98,4 +98,4 @@ Launch Options
 5.| Copy & Paste the below launch options & click [Ok].
 		
 																									[Launch Settings]
-							-exec autoexec -language plexol -noforcemaccel -noforcemparms -noforcemspd -noforcemspeed -novid -nosync -nojoy -high -port 27041 -tickrate 128 -cl_disablehtmlmotd 1
+							-exec autoexec -language tannergolden -noforcemaccel -noforcemparms -noforcemspd -noforcemspeed -novid -nosync -nojoy -high -port 27041 -tickrate 128 -cl_disablehtmlmotd 1
